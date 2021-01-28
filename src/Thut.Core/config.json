@@ -1,0 +1,11 @@
+﻿{
+  "AppSettings": {
+    "ProtocolVersion": 5,
+    "CaminhoComunicacao": "ws://localhost:9999",
+    "CONSUMER_TOKEN": "7PQ7pYk1R2rsHBncB0ugHhBop",
+    "CONSUMER_SECRET": "VxK9Byz8auvCKC8MA8SyDdCaSymQojxAUWUnERjIPCbqlJKIoc",
+    "ACCESS_TOKEN": "2347959828-0lx9oUQhVNGl11niWQ8tLkppk9ymt8wsmz6p8pD",
+    "ACCESS_TOKEN_SECRET": "1a2F0io9uJzwsiRkTvK29jHjE5HLdplMAQA7cerVau7do"
+
+  }
+}
